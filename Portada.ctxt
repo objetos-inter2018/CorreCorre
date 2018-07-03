@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Portada
+comment0.text=\r\n\ Crea\ la\ pantalla\ de\ Portada\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\r\n\ \ \ \ \ \ \ \ \ (El\u00EDas\ Gomrz\ Jorge\ Luis)\r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=
+comment1.target=Portada()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Portada.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Actua\ de\ la\ portada.\ Inicializa\ la\ musica\ y\ cuando\ el\ boton\ es\ presionado\r\n\ detiene\ la\ musica\ y\ crea\ un\ nuevo\ mundo\ de\ menu\r\n\ @param\ botonPortada\ Boton\ para\ regresar\ al\ menu\r\n\ @param\ musicaPortada\ musica\ del\ mundo\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Agrega\ un\ boton\ al\ mundo\r\n
+numComments=4

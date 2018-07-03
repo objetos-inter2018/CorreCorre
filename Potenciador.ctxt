@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Potenciador
+comment0.text=\r\n\ Clase\ Potenciador\ agrega\ movimiento\ a\ potenciador\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\r\n\ \ \ \ \ \ \ \ \ (El\u00EDas\ Gomrz\ Jorge\ Luis)\r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=
+comment1.target=void\ Potenciador()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ actua\ de\ Potenciador,\ movimiento\ de\ potenciador\r\n
+comment3.params=
+comment3.target=void\ muevePot()
+comment3.text=\r\n\ movimiento\ del\ potenciador\ \r\n\ al\ llegar\ a\ uno\ de\ los\ extremos\ del\ escenario\ rebotara\r\n
+numComments=4
