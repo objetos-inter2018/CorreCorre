@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GuardaEspalda
+comment0.text=\r\n\ Guardaespalda\ Jugador\ 2\ de\ nivel\ bonus\ 2\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\r\n\ \ \ \ \ \ \ \ \ (El\u00EDas\ Gomrz\ Jorge\ Luis)\r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ de\ clase\r\n
+comment2.params=
+comment2.target=void\ AyuJugEne()
+comment2.text=\r\n\ Si\ guardaespaldas\ toca\ enemigo\ lo\ desaparece\ sin\ recibir\ da\u00F1o\r\n
+numComments=3

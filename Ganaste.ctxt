@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ganaste
+comment0.text=\r\n\ Ganaste\ muestra\ el\ nombre\ y\ los\ kilometros\ del\ jugador\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\r\n\ \ \ \ \ \ \ \ \ (El\u00EDas\ Gomrz\ Jorge\ Luis)\r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=Km\ N
+comment1.target=Ganaste(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ganaste.\r\n\ @param\ NombreJug\ Puntuacion\ Final\r\n\ @param\ Km\ Km\ del\ jugadoren\ el\ juego\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ actua\ de\ ganaste\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ agrega\ boton\r\n
+numComments=4
