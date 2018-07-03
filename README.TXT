@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Corre Corre: Todo o Nada
+PURPOSE OF PROJECT: Proyecto Escolar
+VERSION or DATE:0.1 (01/07/2018)
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Carrizales Cerda Luis Angel & Elías Gómez Jorge Luis
 USER INSTRUCTIONS:
