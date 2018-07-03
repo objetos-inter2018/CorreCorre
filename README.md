@@ -9,11 +9,15 @@ El propósito de este juego es completar los niveles con el corredor, atravesand
 
 El jugador podrá moverse con las teclas **arriba**, **abajo**, **izquierda** y **derecha**, al igual que podrá realizar las acciones de atacar enemigos y saltar obstáculos con las teclas "**A**" y "**S**" respectivamente.
 
+![Jugador](https://tse4.mm.bing.net/th?id=OIP.FjKdnBiqL690sD_uuXi4mQAAAA)
+
 # Potenciadores y Limitadores
 
 Existen potenciadores que aparecerán en los mapas, otorgando al jugador de lo que sería **puntaje (KM)** y **energía** los cuales permitirán al jugador tener más oportunidad de pasar todos los niveles.
 Asímismo como se tienen los objetos que ayudan al jugador, existen objetos que perjudican al jugador disminuyendo su **puntaje (KM)** y **energía**, el jugador deberá cuidarse de estos.
 Hay un potenciador especial, el **"PasaNivel"** el cual consiste en un trofeo que aparece en el mundo despues de cierto tiempo, este mismo irá muy rápido por lo que atraparlo será un reto.
+
+![Agua](https://vignette.wikia.nocookie.net/clubpenguin/images/7/77/641px-Water_Droplet_Pin.png/revision/latest?cb=20120624175040&path-prefix=es)
 
 # Enemigos
 
@@ -29,6 +33,8 @@ Habrá varios tipos de enemigos a lo largo de los niveles, en total hay 9 tipos 
 - Tipo 8: Movimiento diagonal de derecha a izquierda de manera descendente.
 - Tipo 9: No tiene movimiento, se queda fijo en la pantalla por cierto tiempo.
 
+![EnemigoN7](https://lh3.googleusercontent.com/tpsMYzUXukrQMPTDreWjpT8ZB8PtPetnfxy59oIziqaeZD1C6NF9m9UrVhpczxVSFpaGog=s134)
+
 # Obstaculos
 
 Los obstaculos, tras el jugador haber chocado con uno, no dejará al jugador ni saltar ni atacar.
@@ -40,7 +46,7 @@ Habrán 5 obstáculos en los niveles:
 - Nivel 6: Este obstaculo aterroriza al jugador, los controles están invertidos.
 - Nivel 7: Este obstaculo quemará al jugador, haciendolo moverse muy rápido.
 
-[Link](url) and ![Image](src)
+![Obs1-3](https://lh3.googleusercontent.com/67DZFBSR3EV8HuBp78P-Ugn8NCsNS7lnJimSFD5jn3KYCsf996cewBevM5DMk46HfoRK6w=s170)
 
 # NIVELES
 
@@ -71,11 +77,17 @@ Habrán 5 obstáculos en los niveles:
 
 
 # Enlaces
+- Video:
+ [Corre Corre Todo o Nada - Video](https://youtu.be/RUZpvn8VC0c)
 
-[Corre Corre Todo o Nada - Video](https://youtu.be/RUZpvn8VC0c)
+- Juego:
+ [Greenfoot Proyecto](http://www.greenfoot.org/scenarios/21841)
 
 # Autores
 
 _Carrizales Cerda Luis Angel_
+           Y
 _Elías Gómez Jorge Luis_
+
+![SeeYou](https://i.imgur.com/9Ani5aQ.png)
 
