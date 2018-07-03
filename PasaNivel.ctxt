@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PasaNivel
+comment0.text=\r\n\ Clase\ de\ PasaNivel\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\r\n\ \ \ \ \ \ \ \ \ (El\u00EDas\ Gomez\ Jorge\ Luis)\r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ actua\ de\ PasaNivel\r\n
+comment2.params=
+comment2.target=void\ muevePasN()
+comment2.text=\r\n\ movimiento\ de\ PasaNivel\r\n\ toma\ los\ limites\ de\ los\ niveles\ para\ cambiar\ la\ direccion\r\n
+numComments=3

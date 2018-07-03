@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Oxigeno
+comment0.text=\r\n\ Clase\ oxigeno\ Potenciador\ Bonus\ 1\r\n\ \r\n\ @author\ (Carrizales\ Cerda\ Luis\ Angel)\ \r\n\ @version\ (version\ 1.1)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Hereda\ la\ clase\ act\ de\ EnergiaB\r\n
+numComments=2
